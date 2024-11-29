@@ -1,0 +1,25 @@
+{
+    "name": "tmpm_official",
+    "resources": {
+        "tmadmin_reborn": {
+            "repo": "https://github.com/mentalchaos0x2b/tmreborn",
+            "title": "TMAdmin Reborn",
+            "author": "mental@chaos",
+            "descrption": "Программа для удалённого системного администрирования",
+            "source": "github",
+            "asset": 1,
+            "install_type": "exe",
+            "install_file": null
+        },
+        "notify_service": {
+            "repo": "local",
+            "title": "Notify Service",
+            "author": "mental@chaos",
+            "descrption": "Интерфейс для управления уведомлениями",
+            "source": "current",
+            "asset": 0,
+            "install_type": "zip/bat",
+            "install_file": "install.bat"
+        }
+    }
+}
