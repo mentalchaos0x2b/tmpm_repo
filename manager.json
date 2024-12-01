@@ -10,7 +10,8 @@
             "asset": 1,
             "install_type": "exe",
             "install_file": null,
-            "package": "notify_service"
+            "package": "notify_service",
+            "preview_mime": "png"
         },
         {
             "repo": "local",
@@ -21,7 +22,8 @@
             "asset": 0,
             "install_type": "zip/bat",
             "install_file": "install.bat",
-            "package": "tmadmin_reborn"
+            "package": "tmadmin_reborn",
+            "preview_mime": "svg"
         }
     ]
 }
