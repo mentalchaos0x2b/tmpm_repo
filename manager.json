@@ -1,7 +1,7 @@
 {
     "name": "tmpm_official",
-    "resources": {
-        "tmadmin_reborn": {
+    "resources": [
+        {
             "repo": "https://github.com/mentalchaos0x2b/tmreborn",
             "title": "TMAdmin Reborn",
             "author": "mental@chaos",
@@ -11,7 +11,7 @@
             "install_type": "exe",
             "install_file": null
         },
-        "notify_service": {
+        {
             "repo": "local",
             "title": "Notify Service",
             "author": "mental@chaos",
@@ -21,5 +21,5 @@
             "install_type": "zip/bat",
             "install_file": "install.bat"
         }
-    }
+    ]
 }
