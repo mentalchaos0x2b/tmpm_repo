@@ -9,7 +9,8 @@
             "source": "github",
             "asset": 1,
             "install_type": "exe",
-            "install_file": null
+            "install_file": null,
+            "package": "notify_service"
         },
         {
             "repo": "local",
@@ -19,7 +20,8 @@
             "source": "current",
             "asset": 0,
             "install_type": "zip/bat",
-            "install_file": "install.bat"
+            "install_file": "install.bat",
+            "package": "tmadmin_reborn"
         }
     ]
 }
